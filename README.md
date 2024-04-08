@@ -1,4 +1,6 @@
-# LearnAI Project
+# LearnAI CD Project
+## AI-First Search Engine (Youtube Recommendation Algorithm)
+### Under The Guidance of Ms. Dipika Jain
 ![Screenshot 2024-02-11 080915](https://github.com/sshiwangi/LearnAI/assets/77545230/fcaac78a-245c-497b-bae7-9cf1619a770d)
 
 
@@ -24,7 +26,7 @@ Round the clock accessibility with our whatsapp integration.
 
 The LearnAI project is developed and maintained by a dedicated team of professionals passionate about AI education:
 
-- **Pankaj**
-- **Piyush Bhaswar**
+- **Pankaj(2K21/CO/322)**
+- **Piyush Bhaswar(2K21/CO/328)**
 
 Feel free to connect with the team for inquiries, collaborations, or contributions. Join us on this exciting journey to LearnAI!
